@@ -15,7 +15,7 @@ Ynov - 2022/2023
 ### Description
 
 The idea is to create a C2C Eshop.
-The main inspiration is "Vinted". We want to create a powerfull filter system to search and categorises items.
+The main inspiration is "Vinted". We want to create a powerfull filter system to search and categorise items.
 
 Customers will have access to their account, create offers, answer offers, see and manage their offers.
 
@@ -24,9 +24,9 @@ Admin can delete or hide offers and manage users.
 
 ### Killer Features :
 
-- Possibility to add categories in wishlist to receive (mail) notifications when new products with the rights descriptions are added to the shop.
+- Possibility to add categories in wishlist to receive (mail) notifications when new products with the right description are added to the shop.
 - Great filter and search system fault-proof.
 
 ### Dream feature :
 
-- Chat between the two customers
+- Chat between both customers

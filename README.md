@@ -46,8 +46,10 @@ Admin can delete or hide offers and manage users.
 - Vue Landing Page
 - Vue Register
 - Vue Login
-- Vue User Profile
-- Vue "My Offers" for Users
+- Vue User Profile :
+  - Vue Account Informations
+  - Vue User Offers History & Monthly Stats
+  - Vue Current Offers for Users
 - Vue Admin Dashboard
 - Vue Home / Search Offer
 - Vue Add / Edit Offer
@@ -64,8 +66,10 @@ Admin can delete or hide offers and manage users.
 - Filter System
 - Protected route for Admin Dashboard
 - Stats on Admin Dashboard
+- Stats of Offers for Users
 - Wishlist for products and categories
 - Notifications for Wishlist
+- Fake transaction
 
 ### Technologies :
 
@@ -76,3 +80,10 @@ Admin can delete or hide offers and manage users.
 - MySQL
 - TypeORM
 - Docker
+
+### Bonus functionalities :
+
+- Better Paiement System (If we have the time at the end of the project, someone can help us.)
+- Chat C2C
+- 2FA
+- Better Stats for both User and Admin

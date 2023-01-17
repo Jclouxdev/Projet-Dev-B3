@@ -9,6 +9,10 @@ Ynov - 2022/2023
 > **Paul-Antoine ABEILLE** : https://github.com/pauloducap
 >
 > **Joseph CLOUX** : https://github.com/Jclouxdev
+>
+> **Donatien GAUTHIER** : https://github.com/donassere
+
+
 
 ## The project
 

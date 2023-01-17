@@ -17,6 +17,9 @@ Ynov - 2022/2023
 **🟦 Trello :**
 https://trello.com/invite/b/LVOYDgrF/ATTIdafbc2ef17027b26542efae1166d8d1571ABBB72/project
 
+**🟧 Lucidchart UML :**
+https://lucid.app/lucidchart/89922580-390e-4aa8-afa4-c20231e09cf0/edit?viewport_loc=-710%2C-125%2C2659%2C1370%2CL.BeP2~polPs&invitationId=inv_7b828602-c1c4-43e1-b66f-f349e3818dca
+
 **🌎 API Git :**
 https://github.com/Jclouxdev/GreenVault-API
 

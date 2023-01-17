@@ -40,3 +40,39 @@ Admin can delete or hide offers and manage users.
 - Communication with database
 - CRUD
 - API / Front separate
+
+### Vues :
+
+- Vue Landing Page
+- Vue Register
+- Vue Login
+- Vue User Profile
+- Vue "My Offers" for Users
+- Vue Admin Dashboard
+- Vue Home / Search Offer
+- Vue Add / Edit Offer
+- Vue Offer Details
+- Vue My Wishlist
+
+### V1 functionalities :
+
+- Registration
+- Login JWT
+- CRUD on Offers for User and Admin
+- CRUD on Users for Admin
+- Search System
+- Filter System
+- Protected route for Admin Dashboard
+- Stats on Admin Dashboard
+- Wishlist for products and categories
+- Notifications for Wishlist
+
+### Technologies :
+
+**Full Stack JS**
+
+- NestJS (TypeScript)
+- React
+- MySQL
+- TypeORM
+- Docker

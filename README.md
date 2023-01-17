@@ -26,7 +26,17 @@ Admin can delete or hide offers and manage users.
 
 - Possibility to add categories in wishlist to receive (mail) notifications when new products with the right description are added to the shop.
 - Great filter and search system fault-proof.
+- Admins have access to stats to see the evolution of the quantity of offers by days...
 
-### Dream feature :
+### Dream Feature :
 
 - Chat between both customers
+
+### Basic functionalities :
+
+- Mobile first (responsive)
+- Authentification JWT
+- Storage in database
+- Communication with database
+- CRUD
+- API / Front separate

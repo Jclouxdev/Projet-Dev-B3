@@ -2,7 +2,7 @@
 
 Ynov - 2022/2023
 
-> ## The team
+> ## 👬 The team
 >
 > **Mathis COCO** : https://github.com/Mathis-COCO
 >
@@ -14,11 +14,16 @@ Ynov - 2022/2023
 
 
 
-## Trello
+## 📚 Ressources
 
-You can access the project Trello : https://trello.com/invite/b/LVOYDgrF/ATTIdafbc2ef17027b26542efae1166d8d1571ABBB72/project
+**🟦 Trello :**
+https://trello.com/invite/b/LVOYDgrF/ATTIdafbc2ef17027b26542efae1166d8d1571ABBB72/project
 
-## The project
+**🌎 API Git :**
+
+**👨🏿‍💻 Website Git :**
+
+## 🌱 The project
 
 ### Description
 
@@ -40,14 +45,11 @@ Admin can delete or hide offers and manage users.
 
 - Chat between both customers
 
-### Basic functionalities :
+## Commitments :
 
-- Mobile first (responsive)
-- Authentification JWT
-- Storage in database
-- Communication with database
-- CRUD
-- API / Front separate
+> 📱 Mobile first
+>
+> 🌲 Respect the environment
 
 ### Vues :
 

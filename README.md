@@ -26,7 +26,7 @@ Admin can delete or hide offers and manage users.
 
 - Possibility to add categories in wishlist to receive (mail) notifications when new products with the right description are added to the shop.
 - Great filter and search system fault-proof.
-- Admins have access to stats to see the evolution of the quantity of offers by days...
+- Admins & Users have access to stats to see the evolution of the quantity of offers by days...
 
 ### Dream Feature :
 

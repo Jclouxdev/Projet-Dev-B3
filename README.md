@@ -105,3 +105,16 @@ Admin can delete or hide offers and manage users.
 - Chat C2C
 - 2FA
 - Better Stats for both User and Admin
+
+## For the 6/02/2023
+
+We want to complete thooses tasks for the 6 :
+
+- UML
+- Dev environnement
+- Entities creations
+- ORM DB creation
+- DB connection
+- Register / Login
+- Faker for Users and Admin accounts
+- CRUD on User

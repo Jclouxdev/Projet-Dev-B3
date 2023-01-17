@@ -14,6 +14,10 @@ Ynov - 2022/2023
 
 
 
+## Trello
+
+You can access the project Trello : https://trello.com/invite/b/LVOYDgrF/ATTIdafbc2ef17027b26542efae1166d8d1571ABBB72/project
+
 ## The project
 
 ### Description
@@ -30,7 +34,7 @@ Admin can delete or hide offers and manage users.
 
 - Possibility to add categories in wishlist to receive (mail) notifications when new products with the right description are added to the shop.
 - Great filter and search system fault-proof.
-- Admins have access to stats to see the evolution of the quantity of offers by days...
+- Admins & Users have access to stats to see the evolution of the quantity of offers by days...
 
 ### Dream Feature :
 
@@ -50,8 +54,10 @@ Admin can delete or hide offers and manage users.
 - Vue Landing Page
 - Vue Register
 - Vue Login
-- Vue User Profile
-- Vue "My Offers" for Users
+- Vue User Profile :
+  - Vue Account Informations
+  - Vue User Offers History & Monthly Stats
+  - Vue Current Offers for Users
 - Vue Admin Dashboard
 - Vue Home / Search Offer
 - Vue Add / Edit Offer
@@ -68,8 +74,10 @@ Admin can delete or hide offers and manage users.
 - Filter System
 - Protected route for Admin Dashboard
 - Stats on Admin Dashboard
+- Stats of Offers for Users
 - Wishlist for products and categories
 - Notifications for Wishlist
+- Fake transaction
 
 ### Technologies :
 
@@ -80,3 +88,10 @@ Admin can delete or hide offers and manage users.
 - MySQL
 - TypeORM
 - Docker
+
+### Bonus functionalities :
+
+- Better Paiement System (If we have the time at the end of the project, someone can help us.)
+- Chat C2C
+- 2FA
+- Better Stats for both User and Admin

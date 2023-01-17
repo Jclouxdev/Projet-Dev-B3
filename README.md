@@ -79,9 +79,10 @@ Admin can delete or hide offers and manage users.
 - Protected route for Admin Dashboard
 - Stats on Admin Dashboard
 - Stats of Offers for Users
+- Q & A Between Customers (Comments on Offers)
 - Wishlist for products and categories
 - Notifications for Wishlist
-- Fake transaction
+- Fake transaction (Fake money on users accounts)
 
 ### Technologies :
 
@@ -92,6 +93,7 @@ Admin can delete or hide offers and manage users.
 - MySQL
 - TypeORM
 - Docker
+- FakerJS
 
 ### Bonus functionalities :
 

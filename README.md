@@ -10,6 +10,10 @@ Ynov - 2022/2023
 >
 > **Joseph CLOUX** : https://github.com/Jclouxdev
 
+## Trello
+
+You can access the project Trello : https://trello.com/invite/b/LVOYDgrF/ATTIdafbc2ef17027b26542efae1166d8d1571ABBB72/project
+
 ## The project
 
 ### Description

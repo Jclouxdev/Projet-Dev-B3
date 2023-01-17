@@ -110,11 +110,11 @@ Admin can delete or hide offers and manage users.
 
 We want to complete thooses tasks for the 6 :
 
-- UML
-- Dev environnement
-- Entities creations
-- ORM DB creation
-- DB connection
-- Register / Login
-- Faker for Users and Admin accounts
-- CRUD on User
+- [ ] UML
+- [ ] Dev environnement
+- [ ] Entities creations
+- [ ] ORM DB creation
+- [ ] DB connection
+- [ ] Register / Login
+- [ ] Faker for Users and Admin accounts
+- [ ] CRUD on User

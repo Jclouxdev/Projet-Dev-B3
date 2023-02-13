@@ -9,6 +9,7 @@ const config = {
   title: "Greenvault Documentation",
   tagline: "Documentation",
   favicon: "img/favicon.ico",
+  plugins: ["content-pages"],
 
   // Set the production url of your site here
   url: "https://jclouxdev.github.io/",

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgreenvault=self.webpackChunkgreenvault||[]).push([[9715],{2645:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/greenvault-documentation/blog/tags/hello","allTagsPath":"/greenvault-documentation/blog/tags","count":2}')}}]);

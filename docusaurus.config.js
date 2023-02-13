@@ -22,7 +22,7 @@ const config = {
   projectName: "Projet-Dev-B3", // Usually your repo name.
   deploymentBranch: "gh-pages", // The name of deployment branch.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful

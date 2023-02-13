@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgreenvault=self.webpackChunkgreenvault||[]).push([[566],{22:e=>{e.exports=JSON.parse('{"title":"Greenvault-API","description":"The API Docs.","slug":"/category/greenvault-api","permalink":"/Projet-Dev-B3/docs/category/greenvault-api","navigation":{"next":{"title":"GetAll()","permalink":"/Projet-Dev-B3/docs/Users/"}}}')}}]);

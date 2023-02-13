@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Jclouxdev", // Usually your GitHub org/user name.
-  projectName: "greenvault-documentation", // Usually your repo name.
+  projectName: "Projet-Dev-B3", // Usually your repo name.
   deploymentBranch: "gh-pages", // The name of deployment branch.
 
   onBrokenLinks: "throw",

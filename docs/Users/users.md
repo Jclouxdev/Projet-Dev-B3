@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # GetAll()
@@ -11,3 +11,11 @@ getAll()
 ```
 
 Get All Users
+
+# GetById()
+
+## /users/{id}
+
+```
+getUserById(id: string (uuid))
+```

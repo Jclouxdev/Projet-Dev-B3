@@ -23,7 +23,11 @@ https://lucid.app/lucidchart/89922580-390e-4aa8-afa4-c20231e09cf0/edit?viewport_
 **🌎 API Git :**
 https://github.com/Jclouxdev/GreenVault-API
 
+**✏️ Our model :**
+https://www.figma.com/file/xz7861SWKSNv2RiSpKe3yU/GreenVault?node-id=0%3A1&t=VMDcQOQKpET0tZ1l-1
+
 **👨🏿‍💻 Website Git :**
+
 
 ## 🌱 The project
 
